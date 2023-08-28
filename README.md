@@ -1,5 +1,5 @@
 # I-Wanna-Kill-The-Marx
-First game ever created, made in Construct 2
+First game ever created, made in Construct 2.
 
 ![](https://github.com/VerdalJG/I-Wanna-Kill-The-Marx/blob/main/I%20wanna%20kill%20the%20marx.png)
 
