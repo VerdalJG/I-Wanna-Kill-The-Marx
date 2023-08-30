@@ -7,6 +7,14 @@ Inspired from fangames such as I Wanna be The Guy, in this game, you fight again
 
 ![](https://github.com/VerdalJG/I-Wanna-Kill-The-Marx/blob/main/Marx%20GIFs/Marx%20Vulnerable.gif)
 
+<h2>How to view code and play the game</h2>
+Download Construct 2 along with the .capx file. Open the project and there will be 'Event Sheet' tabs at the top of the preview window. Each event sheet corresponds to its respective scene. To play, ensure you have the "Start Screen" tab selected and click the play button at the top left of the screen.
+
+- <b>Default Controls (Customizable in Options):</b>
+  - Directions (IJKL) - This was the most comfortable for me (my right arrow key was broken at the time of development).
+  - Shoot (Spacebar)
+  - Menu Navigation is with the arrow keys.
+
 <h2>💥Attacks</h2>
 
 - <b>Black Hole:</b>
